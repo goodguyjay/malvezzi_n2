@@ -1,1 +1,4 @@
 .idea/
+__pycache__/
+catboost_info/
+models/__pycache__
